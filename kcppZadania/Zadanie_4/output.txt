@@ -1,0 +1,2 @@
+To jest przykład zapisu do pliku.
+Linia druga w pliku.

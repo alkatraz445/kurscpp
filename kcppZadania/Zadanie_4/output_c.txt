@@ -1,0 +1,2 @@
+C: To jest tekst zapisany do pliku output_c.txt
+C: Kolejna linia tekstu.
