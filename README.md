@@ -13,7 +13,7 @@
 | Zadanie 1     | :white_check_mark:  | [link](https://github.com/alkatraz445/kurscpp/tree/main/kcppZadania/Zadanie_1)   |
 | Zadanie 2     | :white_check_mark:  | [link](https://github.com/alkatraz445/kurscpp/tree/main/kcppZadania/Zadanie_2)   |
 | Zadanie 3     | :white_check_mark:  | [link](https://github.com/alkatraz445/kurscpp/tree/main/kcppZadania/Zadanie_3)   |
-| Zadanie 4     | :large_orange_diamond: | [link](https://github.com/alkatraz445/kurscpp/tree/main/kcppZadania/Zadanie_4) |
+| Zadanie 4     | :white_check_mark:  | [link](https://github.com/alkatraz445/kurscpp/tree/main/kcppZadania/Zadanie_4) |
 | Zadanie 5     | :large_orange_diamond: | [link]() |
 | Zadanie 6     | :large_orange_diamond: | [link]() |
 | Zadanie 7     | :large_orange_diamond: | [link]() |
